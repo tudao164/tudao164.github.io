@@ -4,7 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-![screenshot](https://drive.google.com/uc?export=view&id=1PBHXGjjgLcSjoXQCycXAw0X5AZHwYXsg)
 
 GIỚI THIỆU BẢN THÂN
 
