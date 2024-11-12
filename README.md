@@ -1,3 +1,8 @@
+---
+title: "About"
+permalink: "/about/"
+layout: page
+---
 GIỚI THIỆU BẢN THÂN
 
 
